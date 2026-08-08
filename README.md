@@ -6,7 +6,7 @@ A fast-paced 2D platformer where you play as a black ninja escaping a zombie-fil
 
 ## 🎮 Play the Game
 
-> **[▶️ Play Ninja Escape — Live Demo](YOUR_DEMO_LINK_HERE)**
+> **[▶️ Play Ninja Escape — Live Demo]((https://batman1103.github.io/Ninja-2d/))**
 
 **No installation required. Play directly in your browser.**
 
